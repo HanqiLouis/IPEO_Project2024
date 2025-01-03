@@ -1,0 +1,8 @@
+Those files are too big to upload, please get them from here:
+
+CombinedData: hillshade combined with the blue channel
+https://drive.google.com/file/d/1q27ZG0wkjAwx7KuhzJe7ysMrC9IuR6D4/view?usp=drive_web
+
+HillshadeBlend: hillshade blended with all RGB channels, contribution 40% hillshade 60% RGB
+using pretrained model: https://drive.google.com/file/d/1e7yME3HO-7k2cNfgcrDjcLqBDsi2EgPW/view?usp=drive_web
+trained from scratch model: https://drive.google.com/file/d/1Wpw8X775qvGpUWNq62R4Cu0IOz2oe9x2/view?usp=drive_web
